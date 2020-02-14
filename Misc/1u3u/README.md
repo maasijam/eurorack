@@ -1,1 +1,7 @@
 1u to 3u / 3u to 1u adapter
+
+![maasijam 1u3u img1](Images/DSC03166.jpg)
+
+![maasijam 1u3u img2](Images/DSC03167.jpg)
+
+![maasijam 1u3u img3](Images/DSC03168.jpg)
