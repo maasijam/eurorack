@@ -1,0 +1,19 @@
+Name,Designator,Quantity,Reference,Link
+B100K,"P2,P4,P3,P1",4,,https://www.thonk.co.uk/shop/ttpots/
+"Thonkicon 3,5mm","CV1,CV2,CV3,CV4,IN1,IN2,IN3,IN4,OUT1,OUT2,OUT3,OUT4",12,,https://www.thonk.co.uk/shop/thonkiconn/
+2N3906,"Q1,Q3,Q2,Q4",4,,
+100nF,"C26,C32,C33,C34,C39,C40,C41,C42",8,ceramic,
+47pF,"C7,C3,C1,C4,C5,C6,C8,C2",8,ceramic,
+22K,"R15,R13,R29,R9",4,1%,
+47K,"R3,R26,R34,R22",4,1%,
+1M,"R2,R27,R35,R23",4,1%,
+1K,"R1,R7,R16,R19,R28,R10,R5,R6,R18,R20,R31,R32,R36,R24,R12,R11",16,1%,
+100K,"R8,R14,R25,R17,R21,R30,R33,R4",8,1%,
+LM13700,"IC4,IC3",2,,
+TL074,"IC2,IC1",2,,
+1N5817,"D1,D2",2,,
+Ferrite Bead,"F+,F-",2,,
+DIP-14 Socket,,2,,
+DIP-16 Socket,,2,,
+10uF Capacitor Electrolytic Low profile,"C5,C6",2,,
+2x5 Male Pin Header 2.54mm,,1,,
