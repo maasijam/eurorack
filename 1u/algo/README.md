@@ -3,6 +3,8 @@
 Algo is a 1u output module based on the [Befaco Out V3](https://www.befaco.org/out-v3/) schematic.
 <br />You need separate 1/4″ balanced audio jacks that can be connected to the 2*3 male pin header of the ALGO. I use the Intellijel Palette 62 case's built-in jacks.
 
+Disclaimer: This is a DIY project. Use at your own risk.
+
 
 <h3>Schematics</h3>
 
