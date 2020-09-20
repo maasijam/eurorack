@@ -16,6 +16,8 @@ Algo is a 1u output module based on the [Befaco Out V3](https://www.befaco.org/o
 
 [Bill of materials as CSV](BOM____ALGO_2020-09-20_19-04-04.csv)
 
+<h3>License</h3>
+CC-BY-NC-SA
 
 <h3>Images</h3>
 
