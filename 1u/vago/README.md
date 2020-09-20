@@ -3,7 +3,7 @@
 **VAGO** - is a simple quad vca in 1u format based on bastl instruments ["Quattro Figaro"](https://bastl-instruments.com/eurorack/modules/quattro-figaro)
 
 * CV INs with attenuators
-* Input 2 normalled to input 1, input 4 normalled to input 3
+* The signal from input 1 is normaled to inputs 1/2, and the signal from input 3 is normaled to inputs 3/4
 * Completely through-hole
 * 28HP    
 * 16 mA +12V
