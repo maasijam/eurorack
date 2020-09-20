@@ -10,6 +10,8 @@
 * 16 mA -12V
 * 0 mA 5V
 
+Disclaimer: This is a DIY project. Use at your own risk.
+
 <h3>Schematics</h3>
 
 [Bastl Instruments Quattro Figaro](https://bastl-instruments.com/eurorack/modules/quattro-figaro) (scroll down to DIY Kit section)
