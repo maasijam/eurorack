@@ -1,0 +1,13 @@
+ID,Name,Designator,Quantity
+1,Micro Momentary Tact,"SW1,SW2,SW3,SW4",4
+2,thonkiconn,"U2,U1",2
+3,B100K - T18 shaft - Alpha Vertical 9mm Potentiometer,RV1,1
+4,switch ON-ON,SW5,1
+5,ARDUINO-NANO3,U4,1
+6,100n,"C4,C3,C2,C1",4
+7,SSD1306 128x64 OLED,U5,1
+8,100K,"R1,R3",2
+9,560K,R2,1
+10,100,R4,1
+11,1n4148,"D1,D2,D3,D4",4
+12,1n5817,D5,1
