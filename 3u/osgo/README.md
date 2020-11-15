@@ -9,6 +9,10 @@ Disclaimer: This is a DIY project. Use at your own risk.
 <h3>Gerber</h3>
 
 [Gerber files for panel and front pcb](gerber/)
+
+<h3>BOM</h3>
+
+[Bill of materials as CSV](BOM_osgo.csv)
 <br /><br />
 
 ![maasijam osgo module1](images/DSC03321.jpg)
