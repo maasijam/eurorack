@@ -1,14 +1,14 @@
-ID;Name;Designator;Quantity
-1;Jack 3.5mm Mono;THONKICON10,THONKICON9;2
-2;B100K;P5,P4;2
-3;Bicolour LED 3mm 2xTerminal;D4;1
-4;47K;R9;1
-5;10K;R10;3
-6;100K;R13,R12;3
-7;1K;R11;1
-8;3K;R33;1
-9;100n Ceramic;C19,C20;2
-10;10p Ceramic;C21,C22;2
-11;10u Elko;C1,C2;2
-12;TL074;IC5;1
-13;1N5817;D1,D2;2
+ID Name                      Designator                Quantity
+1  Jack 3.5mm Mono           THONKICON10,THONKICON9    2       
+2  B100K                     P5,P4                     2       
+3  Bicolour LED 3mm 2xTerminaD4                        1       
+4  47K                       R9                        1       
+5  10K                       R10                       3       
+6  100K                      R13,R12                   3       
+7  1K                        R11                       1       
+8  3K                        R33                       1       
+9  100n Ceramic              C19,C20                   2       
+10 10p Ceramic               C21,C22                   2       
+11 10u Elko                  C1,C2                     2       
+12 TL074                     IC5                       1       
+13 1N5817                    D1,D2                     2       
