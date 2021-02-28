@@ -12,6 +12,8 @@
 
 Disclaimer: This is a DIY project. Use at your own risk.
 
+<b>!!! Only for non-commercial and non-profit uses !!!</b>
+
 <h3>Schematics</h3>
 
 [Bastl Instruments Quattro Figaro](https://bastl-instruments.com/eurorack/modules/quattro-figaro) (scroll down to DIY Kit section)
@@ -23,6 +25,9 @@ Disclaimer: This is a DIY project. Use at your own risk.
 <h3>BOM</h3>
 
 [Bill of materials as CSV](BOM____VAGO_2020-09-03_22-37-59.csv)
+
+<h3>License</h3>
+CC-BY-NC-SA
 
 
 <h3>Images</h3>
