@@ -6,8 +6,8 @@
 * The signal from input 1 is normaled to inputs 1/2, and the signal from input 3 is normaled to inputs 3/4
 * Completely through-hole
 * 28HP    
-* 16 mA +12V
-* 16 mA -12V
+* 17 mA +12V
+* 17 mA -12V
 * 0 mA 5V
 
 Disclaimer: This is a DIY project. Use at your own risk.
