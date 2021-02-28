@@ -5,6 +5,8 @@ This 1u attenuverter module is based on the Befaco Dual Atenuverter schematic.
 
 Disclaimer: This is a DIY project. Use at your own risk.
 
+<b>!!! Only for non-commercial and non-profit uses !!!</b>
+
 
 <h3>Schematics</h3>
 
