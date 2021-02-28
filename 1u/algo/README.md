@@ -5,6 +5,8 @@ Algo is a 1u output module based on the [Befaco Out V3](https://www.befaco.org/o
 
 Disclaimer: This is a DIY project. Use at your own risk.
 
+<b>!!! Only for non-commercial and non-profit uses !!!</b>
+
 
 <h3>Schematics</h3>
 
