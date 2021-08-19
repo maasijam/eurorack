@@ -1,0 +1,14 @@
+SPLOG BOM,,,,
+,,,,
+Name,Designator,Footprint,Quantity,Link
+1N5819,"D2,D1",1N5819,2,https://www.reichelt.de/schottkydiode-40-v-1-a-do-41-1n-5819-p41850.html?&nbc=1 
+100n,"C23,C24,C25,C26",C0805,4,
+10K,"R5,R6,R7,R8,R9,R10,R11,R12,R13,R14",R0805,10,
+1k,"R49,R50,R51,R52",R0603,4,
+10K,"R47,R48",R0603,2,
+10pF,"C3,C2,C27,C28,C29,C30",C0805,6,
+TL072P,IC2,SOIC-8,1,
+TL074,IC1,SOIC-14,1,
+"Thonkicon 3,5mm ","U1,U2,U3,U4,U5,U6",,6,https://www.thonk.co.uk/shop/3-5mm-jacks/ 
+22u,"C5,C6",,2,https://www.reichelt.de/elko-radial-22-uf-25-v-1000-h-low-esr-aec-q200-rad-fc-22-25-p84588.html?&nbc=1 
+FERRITE ,"F+,F-",,2,https://www.reichelt.de/emv-ferrit-entstoerfilter-axial-90-ohm-100-mhz-bead-4-90-p105726.html?&nbc=1 
