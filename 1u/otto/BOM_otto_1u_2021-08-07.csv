@@ -1,0 +1,24 @@
+OTTO BOM,,,,
+,,,,
+Name,Designator,Footprint,Quantity,Link
+AUDIO-JACK,"U1,U2,U3",,3,https://www.mouser.de/ProductDetail/REAN-Neutrik/NYS2343?qs=jCymNF74TgW2gSQSKcqhPA%3D%3D
+TL072P,"IC1,IC2",SOIC-8,2,
+100K,"R109,R107,R4,R3",R0805,4,
+39K,"R106,R108",R0805,2,
+10K,"R12,R11,R13,R14,R5,R6,R7,R8",R0805,8,
+75,"R15,R17,R18,R16",R0805,4,
+1K,"R1,R2,R4,R3,R20,R19",R0805,6,
+10uF,"C101,C100",,2,https://www.reichelt.de/elko-radial-10-f-25-v-rm-2-85-c-2000-h-20--ak-10u-25-p228345.html?&nbc=1
+22u,"C20,C21",,2,https://www.reichelt.de/elko-radial-22-uf-25-v-1000-h-low-esr-aec-q200-rad-fc-22-25-p84588.html?&nbc=1
+10pF,"C3,C2,C104,C103",C0805,4,
+100n,"C23,C24,C25,C26,C29,C30,C31,C32",C0805,8,
+1N5819,"D6,D5",,2,https://www.reichelt.de/schottkydiode-40-v-1-a-do-41-1n-5819-p41850.html?&nbc=1
+1N4148,"D1,D3,D2,D4",,4,
+NE5532APSR,"IC4,IC3",SO-8 ,2,https://www.mouser.de/ProductDetail/595-NE5532APSR
+"Thonkicon 3,5mm ","THONKICON1,THONKICON2",,2,https://www.thonk.co.uk/shop/3-5mm-jacks/
+LED 3mm red,"DS1,DS2",LED,2,https://www.reichelt.de/led-zylindrisch-3-mm-bedrahtet-rot-5-mcd-100--kbt-l-424idt-p231072.html?&nbc=1
+Dual Gang B100K,"P1,P2",,2,https://shop.befaco.org/potentiometers/281-5x-double-potentiometer-100k.html
+MMBT3904,"Q2,Q1",SOT-23,2,
+"Knob Miniatur, black",,,1,https://shop.befaco.org/knobs/475-knob-miniature-black-75mm-x5-units.html
+"Knob - Davies 1900h Clone, white",,,1,https://shop.befaco.org/knobs/297-5x-davies-knob.html
+FERRITE ,"F+,F- ",,2,https://www.reichelt.de/emv-ferrit-entstoerfilter-axial-90-ohm-100-mhz-bead-4-90-p105726.html?&nbc=1
