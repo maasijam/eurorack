@@ -20,6 +20,14 @@ Overview:
 * Short click button to change mode
 * Long press button to save the selected mode as default mode
 
+Compiling:
+
+For correct compiling the code, you have to install the OneButton library.
+https://github.com/mathertel/OneButton <br>
+Under "Tools" the USB Type has to be "Serial + Midi".<br>
+If you have problems compiling the code, you can use the hex file in the software folder.
+
+
 Disclaimer: This is a DIY project. Use at your own risk.<br>
 <b>!!! Only for non-commercial and non-profit uses !!!</b>
 
