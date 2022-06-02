@@ -7,7 +7,7 @@ TL072,IC4,1,
 100n,"C3,C4",2,ceramic 
 A100K,"P1,P2,P3,P4",4,
 Jack 3.5mm Mono ,"U1,U2,U3,U4",4,
-10uF Capacitor Electrolytic Low profile ,"C5,C6",2,
+10uF Capacitor Electrolytic Low profile 25V ,"C5,C6",2,
 Ferrite Bead ,"F+,F- ",2,
 DIP-8 Socket ,,1,
 2x5 Male Pin Header 2.54mm ,,1,
