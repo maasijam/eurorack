@@ -1,5 +1,8 @@
 <h1>maasijam 1u Modules</h1>
 
+**MIGO** - a three channel CV / audio mixer - [more...](https://github.com/maasijam/eurorack/tree/master/1u/migo)<br />
+![maasijam algo output module](migo/images/DSC03061.jpg)
+
 **OTTO** - a simplified clone of Befacos out module for 1u (Intellijel format) - [more...](https://github.com/maasijam/eurorack/tree/master/1u/otto)<br />
 ![maasijam otto:out module](otto/images/DSC00113-1-2.jpg)
 
