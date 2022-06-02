@@ -3,7 +3,7 @@ Name,Designator,Quantity,Reference
 TL072,IC4,1,
 47p,"C1,C2",2,ceramic 
 100K,"R1,R2,R3,R5,R6",5,1%
-330,R4,1,
+330,R4,1,1%
 100n,"C3,C4",2,ceramic 
 A100K,"P1,P2,P3,P4",4,
 Jack 3.5mm Mono ,"U1,U2,U3,U4",4,
