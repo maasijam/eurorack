@@ -1,0 +1,15 @@
+Name,Designator,Quantity,Reference
+1N5817 ,"D2,D1",2,
+TL072,IC4,1,
+47p,"C1,C2",2,ceramic 
+100K,"R1,R2,R3,R5,R6",5,1%
+330,R4,1,
+100n,"C3,C4",2,ceramic 
+A100K,"P1,P2,P3,P4",4,
+Jack 3.5mm Mono ,"U1,U2,U3,U4",4,
+10uF Capacitor Electrolytic Low profile ,"C5,C6",2,
+Ferrite Bead ,"F+,F- ",2,
+DIP-8 Socket ,,1,
+2x5 Male Pin Header 2.54mm ,,1,
+1x8 Male Pin Header 2.54mm ,,2,
+1x8 Female Pin Header 2.54mm ,,2,
