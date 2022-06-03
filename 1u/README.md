@@ -3,7 +3,7 @@
 **MIGO** - a three channel CV / audio mixer - [more...](https://github.com/maasijam/eurorack/tree/master/1u/migo)<br />
 ![maasijam algo output module](migo/images/DSC03061_300.jpg)
 
-**OTTO** - a simplified clone of Befacos out module for 1u (Intellijel format) - [more...](https://github.com/maasijam/eurorack/tree/master/1u/otto)<br />
+**OTTO** - a simplified clone of Befacos out module for 1u - [more...](https://github.com/maasijam/eurorack/tree/master/1u/otto)<br />
 ![maasijam otto:out module](otto/images/DSC00113-1-2.jpg)
 
 **MIVA** - a USB MIDI to CV converter - [more...](https://github.com/maasijam/eurorack/tree/master/1u/miva)<br />
