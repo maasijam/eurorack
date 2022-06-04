@@ -22,5 +22,5 @@ Disclaimer: This is a DIY project. Use at your own risk.
 
 ![maasijam marty module](images/marty_pcbs.jpg)
 
-![maasijam marty module](images/marty_pcb_screen.jpg)
+![maasijam marty module](images/marty_pcb_screen.png)
 
