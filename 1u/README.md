@@ -1,5 +1,8 @@
 <h1>maasijam 1u Modules (Intellijel format) </h1>
 
+**MARTY** - a buffered multiple - [more...](https://github.com/maasijam/eurorack/tree/master/1u/marty)<br />
+![maasijam marty module](marty/images/marty_300.jpg)
+
 **MIGO** - a three channel CV / audio mixer - [more...](https://github.com/maasijam/eurorack/tree/master/1u/migo)<br />
 ![maasijam algo output module](migo/images/DSC03061_300.jpg)
 
