@@ -1,4 +1,4 @@
-<h1>maasijam MARTY 1u buffered multiple</h1>
+<h1>maasijam MARTY - 1u buffered multiple</h1>
 
 This 1u buffered multiple module is based on the Mutable Instruments Links schematic.
 <br />[Mutable Instruments Links](https://mutable-instruments.net/modules/links/)
