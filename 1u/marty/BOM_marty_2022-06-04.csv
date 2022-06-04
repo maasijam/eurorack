@@ -1,0 +1,13 @@
+Name,Designator,Footprint,Quantity,Mouser
+Jack 3.5mm Mono,"J1,J2,J3,J4",,4,
+LED RED/GREEN 3mm,LED1,,1,604-WP937EGW 
+10M,R1,R0603,1,
+1k,R3,R0603,1,
+51,"R2,R5,R4",R0603,3,
+1N5817 ,"D5,D6",,2,
+100n,"C3,C4",C0603,2,
+22uF Capacitor Electrolytic Low profile 25V 7mm,"C13,C20",,2,
+OPA4171,IC12,TSSOP14,1,
+1x8 Male Pin Header 2.54mm ,,,2,
+1x8 Female Pin Header 2.54mm ,,,2,
+2x5 Male Pin Header 2.54mm ,,,1,
