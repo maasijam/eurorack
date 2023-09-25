@@ -1,5 +1,8 @@
 <h1>maasijam 1u Modules (Intellijel format) </h1>
 
+**BUSBU** - Passive multiple cv-bus - [more...](busbu/)<br />
+![maasijam busbu module](busbu/images/DSC00717-2.jpg)
+
 **MARTY** - a buffered multiple - [more...](https://github.com/maasijam/eurorack/tree/master/1u/marty)<br />
 ![maasijam marty module](marty/images/marty_300.jpg)
 
