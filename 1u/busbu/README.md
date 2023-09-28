@@ -7,6 +7,8 @@ Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 * 1u Intellijel
 * 38 HP
 
+[Modulargrid](https://www.modulargrid.net/e/other-unknown-busbu)
+
 
 <b>Disclaimer:</b><br> 
 This is a DIY project. Use at your own risk.<br>
