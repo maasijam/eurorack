@@ -14,6 +14,9 @@ Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 This is a DIY project. Use at your own risk.<br>
 Because of the tiny ICs (TSSOP-14), you should have experience in soldering.
 
+<b>Notes:</b><br> 
+If you are using other LEDs then in the BOM, you have to check the resistor values
+
 <b>Licence</b><br>
 CC BY-NC-SA 
 
