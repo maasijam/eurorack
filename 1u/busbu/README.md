@@ -1,6 +1,10 @@
 # BUSBU
 Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 
+> [!NOTE]  
+> Due to minor errors, I am currently revising the project.
+
+
 <b>Overview:</b>
 * 3 channels a 5 in/out jacks
 * Leds for bipolar signals. Above the jacks positive and below negative voltage
@@ -13,9 +17,6 @@ Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 <b>Disclaimer:</b><br> 
 This is a DIY project. Use at your own risk.<br>
 Because of the tiny ICs (TSSOP-14), you should have experience in soldering.
-
-<b>Notes:</b><br> 
-If you are using other LEDs then in the BOM, you have to check the resistor values
 
 <b>Licence</b><br>
 CC BY-NC-SA 
