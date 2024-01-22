@@ -5,7 +5,7 @@ ID,Name,Designator,Quantity,Link,Mouser
 4,switch ON-ON,SW5,1,,
 5,ARDUINO-NANO3,U4,1,,
 6,100n,"C4,C3,C2,C1",4,,
-7,SSD1306 128x64 OLED,U5,1,,
+7,SSD1306 128x64 OLED (I2C / 0.96 Inches),U5,1,https://www.amazon.de/gp/product/B01L9GC470/?th=1&language=en_GB,
 8,100K,"R1,R3",2,,
 9,560K,R2,1,,
 10,100,R4,1,,
