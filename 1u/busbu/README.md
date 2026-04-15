@@ -7,7 +7,7 @@ Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 * 1u Intellijel
 * 38 HP
 
-<b>Known issues</b>
+<b>Known issues:</b><br> 
 LEDs always light up slightly, even when there is no signal.
 https://github.com/maasijam/eurorack/issues/7 
 
