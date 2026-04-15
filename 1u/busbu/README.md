@@ -1,15 +1,15 @@
 # BUSBU
 Passive multiple cv-bus eurorack module (inspired by the Make Noise CV bus)
 
-> [!NOTE]  
-> Due to minor errors, I am currently revising the project.
-
-
 <b>Overview:</b>
 * 3 channels a 5 in/out jacks
 * Leds for bipolar signals. Above the jacks positive and below negative voltage
 * 1u Intellijel
 * 38 HP
+
+<b>Known issues</b>
+LEDs always light up slightly, even when there is no signal.
+https://github.com/maasijam/eurorack/issues/7 
 
 [Modulargrid](https://www.modulargrid.net/e/other-unknown-busbu)
 
